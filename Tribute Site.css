@@ -1,0 +1,75 @@
+/*Styling the body Element like
+ body color and margin*/
+
+body{
+	background-color: #5D6D7E;
+	margin: 20%;
+}
+
+
+
+/*Styling the heading of page by id selector*/
+#heading{
+	text-align: center;
+	font-family: Georgia;
+	color: antiquewhite;
+	text-shadow: 5px 5px 10px white;
+}
+
+
+/* Setting width and display
+        type of image */
+img{
+	display: inline-block;
+	width: 25%;
+}
+
+/*Setting Img to the center by class selector*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+/* Setting font color and font
+        size of the image-caption by id selector */
+#caption{
+	text-align: center;
+	font-size: 18px;
+    font-family: Gill Sans;
+    color:floralwhite;
+}
+
+/* Styling the content of the page like-
+        padding, font-size, font color etc. by id selector*/
+#Tribute-Data{
+	background-color: #D6DBDF;
+	box-shadow: 20px 20px 20px #273746;
+    font-family: Georgia;
+    padding: 30px 30px;
+    margin: 5px;
+    margin-top: 30px;
+}
+
+ /* Styling the title of the content */
+
+#Title-KK{
+	    font-size: 40px;
+        color: black;
+        text-align: center;
+        text-shadow: 5px 5px 10px black;
+
+}
+
+/* Styling the link provided at the end */
+        #tribute-link {
+        	text-align: center;
+            text-decoration: none;
+            color: black;
+        }
+
+body{
+        margin-top: 15px;
+        margin-bottom: 15px;
+}
